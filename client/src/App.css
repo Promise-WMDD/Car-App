@@ -1,0 +1,24 @@
+/* App.css */
+
+body {
+  font-family: sans-serif;
+  margin: 0; /* Remove default body margins */
+  background-color: #f8f8f8; /* Light background */
+}
+
+.container {
+  width: 80%; /* Adjust as needed */
+  max-width: 1200px; /* Maximum width */
+  margin: 20px auto; /* Center the content with some top/bottom margin */
+  padding: 20px;
+  background-color: #fff; /* White background for the main content area */
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+  border: 1px solid #ddd; /* Light border */
+}
+
+h1 {
+  text-align: center;
+  color: #333;
+  margin-bottom: 20px;
+}
+

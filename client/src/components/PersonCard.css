@@ -1,0 +1,22 @@
+.edit-button, .delete-button {
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+    font-size: 1em;
+    padding: 5px;
+    border-radius: 50%; /* Make it circular */
+    width: 30px;
+    height: 30px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .edit-button:hover, .delete-button:hover {
+    background-color: #eee;
+  }
+  
+  .delete-button {
+    color: red;
+  }
+  
